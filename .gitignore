@@ -1,0 +1,4 @@
+.vscode/
+ssl/
+golang/client/client
+golang/server/server
